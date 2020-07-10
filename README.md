@@ -7,12 +7,18 @@ agency wants to analyze the data to research on the healthcare costs and their
 utilization. 
 
 About the Dataset used : 
-A detailed description of the given dataset:
+A detailed description of the given dataset: 
+
 AGE : Age of the patient discharged
+
 FEMALE : Binary variable that indicates if the patient is female
+
 LOS : Length of stay, in days
+
 RACE : Race of the patient (specified numerically)
+
 TOTCHG : Hospital discharge costs
+
 APRDRG : All Patient Refined Diagnosis Related Groups
 
 Objective / Goal Statement Achieved
